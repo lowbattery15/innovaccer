@@ -22,7 +22,7 @@ sudo chmod +x <filename>.sh
 ```
 3. Enter absolute paths wherever necessary.
 4. You are good to go!Njoy!
-
+5. Note, Windows users download [Cygwin](https://www.cygwin.com/) inorder to compile and run the above scripts.
 ## Built With
 
 * [Bash-scripting](https://ryanstutorials.net/bash-scripting-tutorial/) - Linux core
